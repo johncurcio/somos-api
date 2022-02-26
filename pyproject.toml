@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "somos-api"
+version = "0.1.0"
+description = ""
+authors = ["John Curcio <john@curcio.dev>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^4.0.2"
+djangorestframework = "^3.13.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
