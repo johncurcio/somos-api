@@ -1,12 +1,10 @@
 <div align="center">
   <br>
   <img alt="nohs somos" src="./docs/img/sohmos-logo.svg" width="300px">
-  <h4>🏳️‍🌈 Nohs Somos 🏳️‍🌈</h4>
+  <h4>🏳️‍🌈 Nohs Somos Test API 🏳️‍🌈</h4>
   <hr/>
 </div>
-<br>
 
-# Somos Test Api
 
 Este é um projeto de testes que usa Python 3.8 com Poetry e Django para criar uma API backend.
 
