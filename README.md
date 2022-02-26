@@ -19,3 +19,7 @@ Para contribuir para esse projeto, por favor, faça um fork do projeto e depois 
 Todo PR precisa conter testes unitários e de integração. 
 
 Seus commits precisam ser feitos usando [commits semânticos](https://www.conventionalcommits.org/en/v1.0.0/).
+
+<p align="center">
+  <strong>Made with</strong> ❤️
+</p>
